@@ -1,11 +1,11 @@
 
-# AlgoViz
+# Algorithm Visualizer
 
-Welcome to AlgoViz, an interactive program designed to help users understand sorting algorithms through entertaining animations.
+Welcome to Algorithm Visualizer, an interactive program designed to help users understand sorting algorithms through entertaining animations.
 
 ## Introduction
 
-AlgoViz is a Java-based interactive tool that visualizes various sorting algorithms, providing users with a hands-on way to learn and explore how algorithms like Bubble Sort, Selection Sort, Merge Sort, and others work in real-time. Whether you're new to programming or a seasoned developer, AlgoViz offers an intuitive graphical interface to observe and understand sorting processes step-by-step.
+Algorithm Visualizer is a Java-based interactive tool that visualizes various sorting algorithms, providing users with a hands-on way to learn and explore how algorithms like Bubble Sort, Selection Sort, Merge Sort, and others work in real-time. Whether you're new to programming or a seasoned developer, Algorithm Visualizer offers an intuitive graphical interface to observe and understand sorting processes step-by-step.
 
 ## Features
 
